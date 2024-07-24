@@ -57,8 +57,8 @@ class TextMessage(Text):
             "en": {
                 "select_language": "👋 <b>Hello</b>, {full_name}!\n\nSelect language:",
                 "change_language": "<b>Select language:</b>",
-                "main_menu": "<b>Write your question</b>, and we will answer you as soon as possible:",
-                "message_sent": "<b>Message sent!</b> Expect a response.",
+                "main_menu": "<b>Hello {full_name} 👋\n\nI am Online, Chat With Admin Here!/n/nNB : ഇവിടെ മൂവിയുടെ പേര് എഴുതി അയച്ചിട്ട് കാര്യം ഇല്ല, ഇത് മൂവി കിട്ടുന്ന ബോട്ട് അല്ല , അഡ്മിനുമായി സംസാരിക്കുന്ന ബോട്ട് ആണ്..!!\n\n Use ➲ @FileSearch2Bot For Movies</b>",
+                "message_sent": "<b>Message Sent to Admin ✅/n/nReplay Will Be Given Once Admin Comes Online..!! 🙊/n/nഅഡ്മിൻ ഓൺലൈനിൽ വന്നാൽ റീപ്ലേ തരുന്നതാണ്..!! 💥</b>",
                 "message_edited": (
                     "<b>The message was edited only in your chat.</b> "
                     "To send an edited message, send it as a new message."
